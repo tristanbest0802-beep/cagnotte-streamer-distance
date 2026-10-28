@@ -23,6 +23,16 @@ avec un badge « + XP » à chaque don et un flash à chaque palier franchi.
 
 </div>
 
+> [!IMPORTANT]
+> ### Télécharger et installer
+>
+> | | Fichier | |
+> |---|---|---|
+> | **1** | **Le programme** | [Télécharger cagnotte-streamer.zip](https://github.com/tristanbest0802-beep/cagnotte-streamer-distance/releases/latest/download/cagnotte-streamer.zip) (environ 30 Mo) |
+> | **2** | **Le guide avec captures** | [Ouvrir le guide PDF](Guide-installation-streamer.pdf) |
+>
+> Ensuite : **extraire le zip**, puis **double-cliquer sur `start.bat`**. Il installe tout seul ce qu'il faut. Détail des étapes [plus bas](#installation-en-4-étapes).
+
 ---
 
 ## En deux mots
